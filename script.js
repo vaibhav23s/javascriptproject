@@ -1,7 +1,7 @@
 // corect user id's
 
-let correctUser = "amol";
-let correctPass = "420";
+let correctUser = "vaibhavsurpatne@gmail.com";
+let correctPass = "vaibhavsonar123";
 
 // input &  function
 
